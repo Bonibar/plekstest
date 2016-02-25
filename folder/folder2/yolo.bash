@@ -1,1 +1,1 @@
-echo yolo
+echo "yolo et nique ta mère"
