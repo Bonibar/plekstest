@@ -8,7 +8,7 @@ void my_putchar(char c)
 int	main()
 {
   //Bonjour, C'est Alaric qui m'a dit de faire ça.
-  my_putchar("mdr");
+  my_putchar("salut les amis !");
   return (1);
 }
 
