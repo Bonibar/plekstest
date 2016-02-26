@@ -8,6 +8,7 @@ void my_putchar(char c)
 int	main()
 {
   //Bonjour, C'est Alaric qui m'a dit de faire ça.
+  //Héhé, j'ai fait une pull request :)
   my_putchar("Bonjour le FORWARD");
   return (1);
 }
