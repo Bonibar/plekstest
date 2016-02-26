@@ -10,6 +10,6 @@ int	main()
   //Bonjour, C'est Alaric qui m'a dit de faire ça.
   //Voici la pull request
   my_putchar("Bonjour le FORWARD");
-  return (1);
+  return (-42); // C'est ici que j'ai ajouté du code Hihihihi :)
 }
 
